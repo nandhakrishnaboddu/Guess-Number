@@ -1,0 +1,43 @@
+.bg-container{
+   background-image:url("images/download.jfif");
+    height:100vh;
+    width:50%;
+    margin:40vh;
+    text-align:center;
+}
+
+.heading{
+    font-size:25px;
+    color:black;
+    font-family:"Roboto";
+}
+.submitb{
+    font-family:"roboto";
+    height:45px;
+    font-size:20px;
+    width:100px;
+    border-radius:20px;
+    border-width:0px;
+    background-color:greenyellow;
+    margin-right:20px;
+}
+.TryAgain{
+    font-family:"roboto";
+    height:45px;
+    font-size:20px;
+    width:100px;
+    border-radius:20px;
+    border-width:0px;
+    background-color:aqua;
+    margin-right:20px;
+
+}
+.inputelement{
+    text-align:center;
+    font-size:22px;
+    color:brown;
+}
+.paragraph{
+    font-size:23px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
